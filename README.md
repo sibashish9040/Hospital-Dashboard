@@ -6,7 +6,7 @@ Follow this link to view and use the live project: [PowerBi Publish](https://app
 
 ## 📊 Dashboard Highlights
 
-- **Total Pages**: 5
+- **Total Pages**: 6(including the front page)
 - **Pages Included**:
   - [Overview](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/overview_page.png)
   - [Patient Insights](https://github.com/sibashish9040/Hospital-Dashboard/blob/main/docs/patinet_page.png)
